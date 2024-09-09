@@ -1,0 +1,79 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "33TJNDCEA8.tv.belight.mobile"
+                ],
+                "components": [
+                    {
+                        "#": "no_universal_links",
+                        "exclude": true,
+                        "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+                    },
+                    {
+                        "/": "/album/*",
+                        "comment": "Matches any URL with a path that starts with /album/."
+                    },
+                    {
+                        "/": "/audiobook/*",
+                        "comment": "Matches any URL with a path that starts with /audiobook/."
+                    },
+                    {
+                        "/": "/audiobook-chapter/*",
+                        "comment": "Matches any URL with a path that starts with /audiobook-chapter/."
+                    },
+                    {
+                        "/": "/creator/*",
+                        "comment": "Matches any URL with a path that starts with /creator/."
+                    },
+                    {
+                        "/": "/movie/*",
+                        "comment": "Matches any URL with a path that starts with /movie/."
+                    },
+                    {
+                        "/": "/music-video/*",
+                        "comment": "Matches any URL with a path that starts with /music-video/."
+                    },
+                    {
+                        "/": "/playlist/*",
+                        "comment": "Matches any URL with a path that starts with /playlist/."
+                    },
+                    {
+                        "/": "/podcast/*",
+                        "comment": "Matches any URL with a path that starts with /podcast/."
+                    },
+                    {
+                        "/": "/podcast-episode/*",
+                        "comment": "Matches any URL with a path that starts with /podcast-episode/."
+                    },
+                    {
+                        "/": "/short-clip/*",
+                        "comment": "Matches any URL with a path that starts with /short-clip/."
+                    },
+                    {
+                        "/": "/show/*",
+                        "comment": "Matches any URL with a path that starts with /show/."
+                    },
+                    {
+                        "/": "/show-episode/*",
+                        "comment": "Matches any URL with a path that starts with /show-episode/."
+                    },
+                    {
+                        "/": "/single/*",
+                        "comment": "Matches any URL with a path that starts with /single/."
+                    },
+                    {
+                        "/": "/song/*",
+                        "comment": "Matches any URL with a path that starts with /song/."
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "belight.io"
+        ]
+    }
+}

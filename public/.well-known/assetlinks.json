@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "tv.belight.mobile.android",
+            "sha256_cert_fingerprints": [
+                "7F:BD:36:0A:F2:D2:65:2C:39:25:90:E4:E0:1D:94:E2:6D:74:BC:56:83:B9:98:69:E2:E9:3C:37:3B:FB:C4:AF",
+                "DD:6B:5C:7C:A0:7B:52:F4:EB:4F:19:E9:55:E1:A9:C1:EC:76:EF:71:F8:E8:33:A9:A2:30:4F:73:05:E6:9A:67"
+            ]
+        }
+    }
+]

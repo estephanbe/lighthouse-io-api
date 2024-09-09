@@ -1,0 +1,302 @@
+{
+  "resources/assets/images/media-thumbnail.png": {
+    "file": "assets/media-thumbnail.c62763df.png",
+    "src": "resources/assets/images/media-thumbnail.png"
+  },
+  "resources/assets/images/preview-stroke.svg": {
+    "file": "assets/preview-stroke.fb074831.svg",
+    "src": "resources/assets/images/preview-stroke.svg"
+  },
+  "resources/assets/images/heroStrokes.svg": {
+    "file": "assets/heroStrokes.1a5217d7.svg",
+    "src": "resources/assets/images/heroStrokes.svg"
+  },
+  "resources/assets/images/comunityStroke.svg": {
+    "file": "assets/comunityStroke.a876d3c8.svg",
+    "src": "resources/assets/images/comunityStroke.svg"
+  },
+  "resources/assets/images/communityMockup-rtl.png": {
+    "file": "assets/communityMockup-rtl.3cb74d13.png",
+    "src": "resources/assets/images/communityMockup-rtl.png"
+  },
+  "resources/assets/images/communityMockup.png": {
+    "file": "assets/communityMockup.cf81ed6a.png",
+    "src": "resources/assets/images/communityMockup.png"
+  },
+  "resources/assets/images/testimonial-frame.svg": {
+    "file": "assets/testimonial-frame.567f13ad.svg",
+    "src": "resources/assets/images/testimonial-frame.svg"
+  },
+  "resources/assets/images/ripped-page-top.svg": {
+    "file": "assets/ripped-page-top.630dd794.svg",
+    "src": "resources/assets/images/ripped-page-top.svg"
+  },
+  "resources/assets/images/ripped-page-bottom.svg": {
+    "file": "assets/ripped-page-bottom.69d1f6db.svg",
+    "src": "resources/assets/images/ripped-page-bottom.svg"
+  },
+  "resources/assets/images/contact-us-frame.svg": {
+    "file": "assets/contact-us-frame.c1588596.svg",
+    "src": "resources/assets/images/contact-us-frame.svg"
+  },
+  "resources/assets/images/footer-bg.svg": {
+    "file": "assets/footer-bg.4e87eb74.svg",
+    "src": "resources/assets/images/footer-bg.svg"
+  },
+  "resources/assets/images/footer-bg-rtl.svg": {
+    "file": "assets/footer-bg-rtl.eadf596b.svg",
+    "src": "resources/assets/images/footer-bg-rtl.svg"
+  },
+  "resources/assets/images/app-store.png": {
+    "file": "assets/app-store.77a97155.png",
+    "src": "resources/assets/images/app-store.png"
+  },
+  "resources/assets/images/google-play.png": {
+    "file": "assets/google-play.9d2aeb80.png",
+    "src": "resources/assets/images/google-play.png"
+  },
+  "resources/assets/images/belight-logo.svg": {
+    "file": "assets/belight-logo.ab9f62e5.svg",
+    "src": "resources/assets/images/belight-logo.svg"
+  },
+  "resources/assets/images/secondary-stroke.svg": {
+    "file": "assets/secondary-stroke.4f90f6f9.svg",
+    "src": "resources/assets/images/secondary-stroke.svg"
+  },
+  "resources/assets/images/pause-btn.svg": {
+    "file": "assets/pause-btn.94526644.svg",
+    "src": "resources/assets/images/pause-btn.svg"
+  },
+  "resources/assets/images/play-btn.svg": {
+    "file": "assets/play-btn.9697aae9.svg",
+    "src": "resources/assets/images/play-btn.svg"
+  },
+  "resources/assets/images/qr.png": {
+    "file": "assets/qr.8be1528f.png",
+    "src": "resources/assets/images/qr.png"
+  },
+  "resources/assets/images/button-bg-primary.svg": {
+    "file": "assets/button-bg-primary.1389adcf.svg",
+    "src": "resources/assets/images/button-bg-primary.svg"
+  },
+  "resources/assets/images/button-bg-secondary.svg": {
+    "file": "assets/button-bg-secondary.85e8e0bf.svg",
+    "src": "resources/assets/images/button-bg-secondary.svg"
+  },
+  "resources/assets/images/section-image-listen.svg": {
+    "file": "assets/section-image-listen.75382358.svg",
+    "src": "resources/assets/images/section-image-listen.svg"
+  },
+  "resources/assets/images/section-image-watch.svg": {
+    "file": "assets/section-image-watch.b4ef84a5.svg",
+    "src": "resources/assets/images/section-image-watch.svg"
+  },
+  "resources/assets/images/section-image-connect.svg": {
+    "file": "assets/section-image-connect.5443248b.svg",
+    "src": "resources/assets/images/section-image-connect.svg"
+  },
+  "resources/assets/images/media.svg": {
+    "file": "assets/media.8ec5793f.svg",
+    "src": "resources/assets/images/media.svg"
+  },
+  "resources/assets/images/foot-1.svg": {
+    "file": "assets/foot-1.5d393941.svg",
+    "src": "resources/assets/images/foot-1.svg"
+  },
+  "resources/assets/images/foot-2.svg": {
+    "file": "assets/foot-2.5aba1e85.svg",
+    "src": "resources/assets/images/foot-2.svg"
+  },
+  "resources/assets/images/foot-3.svg": {
+    "file": "assets/foot-3.c29391ba.svg",
+    "src": "resources/assets/images/foot-3.svg"
+  },
+  "resources/assets/images/foot-4.svg": {
+    "file": "assets/foot-4.83ea9a73.svg",
+    "src": "resources/assets/images/foot-4.svg"
+  },
+  "resources/assets/images/foot-5.svg": {
+    "file": "assets/foot-5.6f74a56a.svg",
+    "src": "resources/assets/images/foot-5.svg"
+  },
+  "resources/assets/images/foot-6.svg": {
+    "file": "assets/foot-6.e47ee81b.svg",
+    "src": "resources/assets/images/foot-6.svg"
+  },
+  "resources/assets/images/foot-7.svg": {
+    "file": "assets/foot-7.e832d4c2.svg",
+    "src": "resources/assets/images/foot-7.svg"
+  },
+  "resources/assets/images/foot-8.svg": {
+    "file": "assets/foot-8.95a460cd.svg",
+    "src": "resources/assets/images/foot-8.svg"
+  },
+  "resources/assets/fonts/ff-bouya.woff2": {
+    "file": "assets/ff-bouya.efeb31cc.woff2",
+    "src": "resources/assets/fonts/ff-bouya.woff2"
+  },
+  "resources/assets/fonts/hillstone.otf": {
+    "file": "assets/hillstone.7092622d.otf",
+    "src": "resources/assets/fonts/hillstone.otf"
+  },
+  "resources/assets/fonts/zing-rust-demo.woff2": {
+    "file": "assets/zing-rust-demo.cd1c95c5.woff2",
+    "src": "resources/assets/fonts/zing-rust-demo.woff2"
+  },
+  "resources/assets/fonts/ReadexPro-Regular.ttf": {
+    "file": "assets/ReadexPro-Regular.e9ccb699.ttf",
+    "src": "resources/assets/fonts/ReadexPro-Regular.ttf"
+  },
+  "resources/assets/fonts/PS-Adventurist-Regular.otf": {
+    "file": "assets/PS-Adventurist-Regular.2aa6dd67.otf",
+    "src": "resources/assets/fonts/PS-Adventurist-Regular.otf"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.6a3e21d0.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Home.vue",
+      "resources/js/Pages/Preview.vue",
+      "resources/js/Pages/PrivacyPolicy.vue",
+      "resources/js/Pages/TermsAndConditions.vue"
+    ],
+    "css": [
+      "assets/app.58217405.css"
+    ],
+    "assets": [
+      "assets/ff-bouya.efeb31cc.woff2",
+      "assets/hillstone.7092622d.otf",
+      "assets/zing-rust-demo.cd1c95c5.woff2",
+      "assets/PS-Adventurist-Regular.2aa6dd67.otf",
+      "assets/ReadexPro-Regular.e9ccb699.ttf"
+    ]
+  },
+  "resources/js/Pages/Home.vue": {
+    "file": "assets/Home.57e920e2.js",
+    "src": "resources/js/Pages/Home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppNavigation.f67a42fa.js",
+      "resources/js/app.js",
+      "_google-play.c724899e.js"
+    ],
+    "css": [
+      "assets/Home.fd7821e0.css"
+    ],
+    "assets": [
+      "assets/button-bg-primary.1389adcf.svg",
+      "assets/button-bg-secondary.85e8e0bf.svg",
+      "assets/heroStrokes.1a5217d7.svg",
+      "assets/comunityStroke.a876d3c8.svg",
+      "assets/communityMockup-rtl.3cb74d13.png",
+      "assets/communityMockup.cf81ed6a.png",
+      "assets/section-image-listen.75382358.svg",
+      "assets/section-image-watch.b4ef84a5.svg",
+      "assets/section-image-connect.5443248b.svg",
+      "assets/media.8ec5793f.svg",
+      "assets/secondary-stroke.4f90f6f9.svg",
+      "assets/foot-1.5d393941.svg",
+      "assets/foot-2.5aba1e85.svg",
+      "assets/foot-3.c29391ba.svg",
+      "assets/foot-4.83ea9a73.svg",
+      "assets/foot-5.6f74a56a.svg",
+      "assets/foot-6.e47ee81b.svg",
+      "assets/foot-7.e832d4c2.svg",
+      "assets/foot-8.95a460cd.svg",
+      "assets/testimonial-frame.567f13ad.svg",
+      "assets/ripped-page-top.630dd794.svg",
+      "assets/ripped-page-bottom.69d1f6db.svg",
+      "assets/contact-us-frame.c1588596.svg",
+      "assets/footer-bg.4e87eb74.svg",
+      "assets/footer-bg-rtl.eadf596b.svg"
+    ]
+  },
+  "_AppNavigation.f67a42fa.js": {
+    "file": "assets/AppNavigation.f67a42fa.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/AppNavigation.bee866a3.css"
+    ],
+    "assets": [
+      "assets/belight-logo.ab9f62e5.svg"
+    ]
+  },
+  "_google-play.c724899e.js": {
+    "file": "assets/google-play.c724899e.js",
+    "assets": [
+      "assets/app-store.77a97155.png",
+      "assets/google-play.9d2aeb80.png"
+    ]
+  },
+  "resources/js/Pages/Preview.vue": {
+    "file": "assets/Preview.c1529690.js",
+    "src": "resources/js/Pages/Preview.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppNavigation.f67a42fa.js",
+      "resources/js/app.js",
+      "_google-play.c724899e.js"
+    ],
+    "css": [
+      "assets/Preview.d5299b30.css"
+    ],
+    "assets": [
+      "assets/pause-btn.94526644.svg",
+      "assets/play-btn.9697aae9.svg",
+      "assets/qr.8be1528f.png",
+      "assets/media-thumbnail.c62763df.png",
+      "assets/preview-stroke.fb074831.svg"
+    ]
+  },
+  "resources/js/Pages/PrivacyPolicy.vue": {
+    "file": "assets/PrivacyPolicy.04042358.js",
+    "src": "resources/js/Pages/PrivacyPolicy.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppNavigation.f67a42fa.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/PrivacyPolicy.c7749d2d.css"
+    ]
+  },
+  "resources/js/Pages/TermsAndConditions.vue": {
+    "file": "assets/TermsAndConditions.b32653f2.js",
+    "src": "resources/js/Pages/TermsAndConditions.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AppNavigation.f67a42fa.js",
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/TermsAndConditions.b809a148.css"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.58217405.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/Pages/PrivacyPolicy.css": {
+    "file": "assets/PrivacyPolicy.c7749d2d.css",
+    "src": "resources/js/Pages/PrivacyPolicy.css"
+  },
+  "AppNavigation.css": {
+    "file": "assets/AppNavigation.bee866a3.css",
+    "src": "AppNavigation.css"
+  },
+  "resources/js/Pages/TermsAndConditions.css": {
+    "file": "assets/TermsAndConditions.b809a148.css",
+    "src": "resources/js/Pages/TermsAndConditions.css"
+  },
+  "resources/js/Pages/Home.css": {
+    "file": "assets/Home.fd7821e0.css",
+    "src": "resources/js/Pages/Home.css"
+  },
+  "resources/js/Pages/Preview.css": {
+    "file": "assets/Preview.d5299b30.css",
+    "src": "resources/js/Pages/Preview.css"
+  }
+}
